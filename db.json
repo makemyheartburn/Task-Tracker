@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Eat sushi",
+      "day": "June 1st 13:00",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Smoke cigs",
+      "day": "Everyday",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Learn JS",
+      "day": "All day",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "sushi",
+      "day": "",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
